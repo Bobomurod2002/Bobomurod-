@@ -7,7 +7,6 @@ print(p)
 
 import math 
 d = float(input("Doiraning diametrini kiriting: "))
-
 L = d * math.pi 
 print(L)    
 
